@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "358671635318",
+    "firebase_url": "https://ar-tutorial-dfc66.firebaseio.com",
+    "project_id": "ar-tutorial-dfc66",
+    "storage_bucket": "ar-tutorial-dfc66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358671635318:android:5dd1d32c79559f315da057",
+        "android_client_info": {
+          "package_name": "com.heyletscode.artutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358671635318-jikpjiseb1npc869te2pd8p59ku98g78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaBlfb0bPRZqDwdnd_s5pYzQBJuYuMH_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358671635318-jikpjiseb1npc869te2pd8p59ku98g78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
